@@ -1,0 +1,6 @@
+com\goeuro\testdev\GoEuroTest.class
+com\goeuro\testdev\entity\City.class
+com\goeuro\testdev\RestClient.class
+com\goeuro\testdev\CsvFileWriter.class
+com\goeuro\testdev\entity\AlternativeNames.class
+com\goeuro\testdev\entity\GeoPosition.class
